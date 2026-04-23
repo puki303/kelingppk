@@ -517,7 +517,7 @@ await import("https://outerbloom.com/cdn/shopifycloud/shop-js/modules/v2/chunk.m
 "name":"Berapa Minimal Deposit?",
 "acceptedAnswer":{
 "@type":"Answer",
-"text":" "Minimal deposit cukup 5000 saja, tanpa potongan biaya apapun."
+"text":"Minimal deposit cukup 5000 saja, tanpa potongan biaya apapun."
 }
 },
 {
